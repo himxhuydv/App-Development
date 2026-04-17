@@ -1,0 +1,2 @@
+# Style
+a style is used for the apperance of the Ui element on the screen.it's basically costume for your views.it's collection of the attributes bundled together and applied ui components such as buttons
