@@ -43,7 +43,7 @@ used in
 # Digital Signature
 A piece of cryptographic data which is attached to a app,a private key is used to create and that private key sign the hash of the app to create the digital signature.  
 Digital singature is used to   
-1.verify the developer singed in using the same private key.(here we are talking about whether the this digital singature is created using the same private key of developer or not.) for better understanding we gonna talk about the  
+1.verify the developer signed in using the same private key.(here we are talking about whether this digital singature is created using the same private key of developer or not.) for better understanding we gonna talk about the  
 2.**By the Private key(security key) we can create a digital signature.and because of the digital signature we can know is anybody does any unauthorised modification.if there is any unauthorised modification then the digital singature will become **invalid result** and Android can detect that the app has been changed.And through public key can verify the signature.**
 **After knowing the digital singature is broken or the app is being modified what does Android do ?**
 1.Blocks Installation- it will refuse to install the app because the invalid signature or tampered content of the apps
