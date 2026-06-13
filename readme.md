@@ -49,4 +49,22 @@ Digital singature is used to
 1.Blocks Installation- it will refuse to install the app because the invalid signature or tampered content of the apps
 2.Blocks Update-it will not update an existing app because the new version has mismatched signature,
 3.Show Warning
-4.Protects User data and device - so the android will prevents a any modification from pretender to be real.it will prevent from stealing password,personal information.installing malware,sending data to hackers
+4.Protects User data and device - so the android will prevents a any modification from pretender to be real.it will prevent from stealing password,personal information.installing malware,sending data to hackers.
+
+# Software 
+The set of instruction that tells a computer or device to what to do.  
+Software=program and instruction that runs on the hardware.
+ 
+# Composition  
+The parts of the systems that works together and works as a complete whole.
+
+# Android Architecture
+Android architecture is a collection of software layers and their component that works toegther and provide the serivcs and run the android applications.for example by managing the hardware,memory mangement,and providing various service to give user optimum help .  
+* Linux kernel:linux is called system software why because this where **all the hardware  mangement work**, input/output work get's done.So, basically the linux is used for creation of the android and that's the platform through which can operate the hardware and these thing to -     
+power management ,process management,memory mangement  
+this provide a layer of  abstraction that interaction to the device hardware and upper layer of software stack without showing any core functionality like - how an file is being store.without showing on which memory address that apps is being store.
+* Native libraries and Android Runtime: here are two  software composition working on the same stage :  
+**Native libraries**    
+**Android Runtime**  
+both of these layer's are working togther in this stage.
+ **Native libraries:**
