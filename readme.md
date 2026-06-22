@@ -35,7 +35,7 @@ keystore is basically created by the developer to store all kind of cryptographi
 # Private key
 baically private key is a cryptographic key that is only known to its owner.
 used in  
-1.Creating of the digital signatuer 
+1.Creating of the digital signature  
 2.Encrypting and decrypting
 
 
